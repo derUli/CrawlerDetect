@@ -1,7 +1,11 @@
 {
-   "id" : "CrawlerDetect",
-   "version" : "1.2.51",
-   "description" : "CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent",
-   "categories" : ["development", "seo", "crawler"],
-   "compatible_from" : "2017.3.12"
+	"id": "CrawlerDetect",
+	"version": "1.2.51",
+	"description": "CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent",
+	"categories": [
+		"development",
+		"seo",
+		"crawler"
+	],
+	"compatible_from": "2017.3.12"
 }
