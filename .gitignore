@@ -3,3 +3,4 @@ work/*
 .settings
 .project
 .buildpath
+vendor
